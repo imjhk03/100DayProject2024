@@ -4,9 +4,15 @@
 **End Date**: December 31, 2024
 
 ## Goal
-- 2024년 잘 마무리하기
+### 🌿 2024년 잘 마무리하기
+- 매일 하루 기록하기
+- 2024년 올 한해 회고하기 (월별)
+
+### 💻 Programming
 - Back to the Basic 프로젝트 마무리하기
 - LeetCode 매일 풀고 지난 문제 복습하면서 노트 정리하기
+
+### 💎 App
 - 최소 3개의 앱 출시하기
   - VisionKit Sample App
   - HealthKit Sample App
