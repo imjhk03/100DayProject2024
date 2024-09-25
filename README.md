@@ -27,3 +27,4 @@
 ## Daily Logs
 - [Day 1](./Day%201.md)
 - [Day 2](./Day%202.md)
+- [Day 3](./Day%203.md)
