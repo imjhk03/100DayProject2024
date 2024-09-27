@@ -22,10 +22,11 @@
 
 | Week | Summary |
 |------|---------|
-| Week 1 | Swift Language 노트 정리, VisionKit Sample App 완료하기 |
+| Week 1 | LeetCode(알고리즘, 자료구조) 노트 정리, VisionKit Sample App 완료하기 |
 
 ## Daily Logs
 - [Day 1](./Day%201.md)
 - [Day 2](./Day%202.md)
 - [Day 3](./Day%203.md)
 - [Day 4](./Day%204.md)
+- [Day 5](./Day%205.md)
