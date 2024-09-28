@@ -31,3 +31,4 @@
 - [Day 4](./Day%204.md)
 - [Day 5](./Day%205.md)
 - [Day 6](./Day%206.md)
+- [Day 7](./Day%207.md)

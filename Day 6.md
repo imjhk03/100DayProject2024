@@ -10,3 +10,6 @@
 - Overlapped Intervals, Line Sweep 이해하기
 - Binary Search 이해하기
 - Assistant API 관련 생성, 쓰레드, 메시지 관련 동작
+
+### Obstacles:
+- 건강 상태가 좋지 않아 오랜 시간 작업할 수 없음
