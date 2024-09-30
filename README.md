@@ -16,13 +16,16 @@
 - 최소 3개의 앱 출시하기
   - VisionKit Sample App
   - HealthKit Sample App
-  - ChatGPT Sample App 
+    - Notification 관련 앱
+    - MapKit 관련 앱
+  - ChatGPT Sample App
 
 ## Progress Overview
 
 | Week | Summary |
 |------|---------|
 | Week 1 | LeetCode(알고리즘, 자료구조) 노트 정리, VisionKit Sample App 완료하기 |
+| Week 2 | LeetCode(알고리즘, 자료구조) 노트 정리, HealthKit Sample App(MapKit 관련) 프로토타입 구현하기, ChatGPT Sample App 완료하기 |
 
 ## Daily Logs
 - [Day 1](./Day%201.md)
@@ -32,3 +35,4 @@
 - [Day 5](./Day%205.md)
 - [Day 6](./Day%206.md)
 - [Day 7](./Day%207.md)
+- [Day 8](./Day%208.md)
