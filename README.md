@@ -36,3 +36,4 @@
 - [Day 6](./Day%206.md)
 - [Day 7](./Day%207.md)
 - [Day 8](./Day%208.md)
+- [Day 9](./Day%209.md)
