@@ -1,7 +1,7 @@
 # Day 10 - Oct 1, Tue
 
 ### What I did:
-- [LeetCode September Daily Challenge](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/?envType=daily-question&envId=2024-10-01) 풀기
+- [LeetCode October Daily Challenge](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/?envType=daily-question&envId=2024-10-01) 풀기
 - ChatGPT Sample App 코드 작성
   - 프롬프트 결과를 다시 수정하는 코드 작성
   
