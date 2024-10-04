@@ -2,7 +2,7 @@
 
 ### What I did:
 - [LeetCode October Daily Challenge](https://leetcode.com/problems/rank-transform-of-an-array/description/?envType=daily-question&envId=2024-10-02) 풀기
-- Chirpy Theme 7.0.1 업데이트
+- Chirpy Theme 7.1.1 업데이트
 - HealthKit Sample App(MapKit 관련) 프로토타입 구현하기
   - 필요한 자료 및 앱 조사
   
