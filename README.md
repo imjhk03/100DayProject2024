@@ -39,3 +39,4 @@
 - [Day 9](./Day%209.md)
 - [Day 10](./Day%2010.md)
 - [Day 11](./Day%2011.md)
+- [Day 12](./Day%2012.md)
