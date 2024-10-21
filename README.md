@@ -27,6 +27,7 @@
 | Week 1 | LeetCode(알고리즘, 자료구조) 노트 정리, VisionKit Sample App 완료하기 |
 | Week 2 | LeetCode(알고리즘, 자료구조) 노트 정리, HealthKit Sample App(MapKit 관련) 프로토타입 구현하기, ChatGPT Sample App 완료하기 |
 | Week 3 | LeetCode(알고리즘, 자료구조) 노트 정리, 프로젝트 정리하기 |
+| Week 4 | LeetCode(알고리즘, 자료구조) 노트 정리, 포트폴리오 정리하기 |
 
 ## Daily Logs
 - [Day 1](./Day%201.md)
@@ -51,3 +52,4 @@
 - [Day 20](./Day%2020.md)
 - [Day 21](./Day%2021.md)
 - [Day 22](./Day%2022.md)
+- [Day 23](./Day%2023.md)
